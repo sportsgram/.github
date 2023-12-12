@@ -1,6 +1,4 @@
-# Sportsgram
-
-### Integrated Sports Management and Engagement Platform
+## Integrated Sports Management and Engagement Platform
 
 Sportsgram is an innovative, multi-faceted platform designed to revolutionize the way sports are organized, played, and experienced. By transcending traditional boundaries, Sportsgram serves as a one-stop solution for various aspects of sports management, encompassing tournament organization, player engagement, community building, and more.
 
